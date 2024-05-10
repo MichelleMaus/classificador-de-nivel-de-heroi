@@ -25,4 +25,6 @@ Ao final deve se exibir uma mensagem:
 
 ![Captura de tela da ferramenta](https://github.com/MichelleMaus/classificador-de-nivel-de-heroi/blob/main/gif/2024-05-10-19-03-23.gif?raw=true)
 
-## Acesse o projeto
+## Acesse o projeto:
+
+https://michellemaus.github.io/classificador-de-nivel-de-heroi/
