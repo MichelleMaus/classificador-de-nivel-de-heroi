@@ -1,7 +1,7 @@
 
 # Desafio Classificador de nível de Herói 🏆
 
-O desafio proposto por Felipe Aguiar, o "Felipão" da DIO, é implementar um classificador de nível de herói com base em sua experiência (XP). Desenvolvi um código em HTLM, CSS e Javascript a fim de proporcionar uma experiência interativa para o usuário.
+O desafio proposto por Felipe Aguiar, o "Felipão" da DIO, era implementar um classificador de nível de herói com base em sua experiência (XP). Desenvolvi um código em HTML, CSS e Javascript a fim de proporcionar uma experiência interativa para o usuário.
 
 ## Objetivo
 
